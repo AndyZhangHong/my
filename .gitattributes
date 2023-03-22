@@ -1,1 +1,5 @@
-*.zip filter=lfs diff=lfs merge=lfs -text
+pdmaner/v4.5.0/PDManer-linux_v4.5.0.AppImage filter=lfs diff=lfs merge=lfs -text
+pdmaner/v4.5.0/PDManer-mac_apple_v4.5.0.dmg filter=lfs diff=lfs merge=lfs -text
+pdmaner/v4.5.0/PDManer-mac_v4.5.0.dmg filter=lfs diff=lfs merge=lfs -text
+pdmaner/v4.5.0/PDManer-win_v4.5.0.exe filter=lfs diff=lfs merge=lfs -text
+pdmaner/v4.5.0/PDManer-win_v4.5.0.zip filter=lfs diff=lfs merge=lfs -text
